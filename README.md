@@ -34,7 +34,7 @@ Run the desired .ipynb according to the algorithm you need to implement.
 
 Here is the Accuracy graph of our project:
 
-![ScaledGraph](https://github.com/MithasKumar/Stock-market-prediction-using-various-machine-learning-models/Images/ScaledGraph.png)
+![ScaledGraph](https://github.com/MithasKumar/Stock-market-prediction-using-various-machine-learning-models/blob/master/Images/ScaledGraph.png)
 
 ## License
 
